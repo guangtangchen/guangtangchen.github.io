@@ -1380,7 +1380,7 @@ body {
   text-align: center;
 }
 .cid-rQLoi93Mxk H1 {
-  color: #efefef;
+  color: #c1c1c1;
 }
 .cid-rSna0BdfSy {
   background: linear-gradient(45deg, #55b4d4, #073b4c);
@@ -1413,8 +1413,6 @@ body {
   text-align: left;
 }
 .cid-rSmMBzfbP6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-color: #149dcc;
   background: linear-gradient(45deg, #149dcc, #000000);
 }
@@ -1435,6 +1433,92 @@ body {
 }
 @media (max-width: 767px) {
   .cid-rSmMBzfbP6 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rSqBP0SXw2 {
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-rSqBP0SXw2 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rSqBP0SXw2 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rSqBP0SXw2 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rSraZdj33J {
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+.cid-rSraZdj33J .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rSraZdj33J .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rSraZdj33J .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rSraZdj33J .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rSrWHU0f68 {
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-rSrWHU0f68 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rSrWHU0f68 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rSrWHU0f68 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rSs5veJzxI {
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+.cid-rSs5veJzxI .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rSs5veJzxI .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rSs5veJzxI .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rSs5veJzxI .mbr-text {
     text-align: center;
   }
 }
